@@ -1,0 +1,33 @@
+PROJECT-PORTFOLIO--Superstore-Sales-SQL-Data-Analysis
+
+INTRODUCTION: In this Superstore Sales SQL Data Analysis project, an exploratory data analysis was performed on the Superstore Sales Data available on Kaggle. The main aim of the project is to uncover insights into the store's sales and profits trends and patterns from 2014 to 2017.
+This report provides an analysis of the Superstore dataset to identify opportunities to increase profitability by understanding sales performance across different categories, regions, and customer segments.
+
+Data Overview:The Superstore dataset includes order details, customer information, product categories, sales, profit, and other relevant metrics. The key columns are Order ID, Order Date, Ship Date, Customer ID, Segment, Country, City, State, Region, Product ID, Category, Sub-Category, Product Name, Sales, Quantity, Discount, and Profit.
+
+Business Question:
+How can the company increase profitability by understanding the sales performance across different categories, regions, and customer segments?
+
+Methodology:
+To address the business question, the following SQL queries were used to analyze the dataset:
+
+Total Sales and Profit by Category
+Total Sales and Profit by Region
+Total Sales and Profit by Customer Segment
+Monthly Sales and Profit Trends
+Top 10 Most Profitable Products
+Sales and Profit by Category and Region
+Impact of Discount on Sales and Profit
+Average Shipping Cost by Region and Category
+
+I run all these quries and their codes are available in the other file where you can check.
+then I made visualizations to create a dashboard of my analysis for better understanding. 
+
+Here's the link of my Superstore analysis dashboard,
+https://public.tableau.com/app/profile/fatima.umair6449/vizzes
+
+Conclusion: The analysis of the Superstore dataset highlights key areas to focus on for increasing profitability,
+
+**Expanding Technology and Office Supplies categories.
+
+Thanks for reading. 
